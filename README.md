@@ -1,2 +1,2 @@
 # hello-world
-Github git tutorial
+Branching Tutorial
